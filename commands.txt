@@ -1,3 +1,26 @@
 Commands
 
 npm create vite@latest
+
+npm install
+
+Download project assets : 
+i. https://greatstack.dev/assets/lms-app-react-js
+ii. https://drive.google.com/file/d/1gHX5De1qxaoCUlxqdJ47mhCDFLNiPDud/view?usp=sharing
+
+......................................................................................................
+npm install react-router-dom react-youtube uniqid quill humanize-duration rc-progress react-simple-star-rating
+
+npm install -D tailwindcss@3 postcss autoprefixer
+
+npx tailwind init -p 
+
+(for v3 tailwindcss info visit : https://v3.tailwindcss.com/docs/guides/vite)
+
+.....................................................................................................
+Install VSCODE Extention : ES7 React/Redux/GraphQL/React-Native snippets by rodrigovallades
+
+.....................................................................................................
+Time - 20:30
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
