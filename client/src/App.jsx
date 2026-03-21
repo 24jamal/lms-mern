@@ -20,7 +20,6 @@ const App = () => {
   return (
     <div className='text-default min-h-screen bg-white'>
       {!isEducatorRoute && <Navbar />}
-      <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home />}></Route>
         <Route path='/course-list' element={<CoursesList />}></Route>
