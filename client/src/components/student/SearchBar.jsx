@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { assets } from '../../assets/assets'
 import { data, useNavigate } from 'react-router-dom'
 
-const Searchbar = ({ data }) => {
+const SearchBar = ({ data }) => {
 
     const navigate = useNavigate()
     const [input, setInput] = useState(data ? data : '')
@@ -22,4 +22,4 @@ const Searchbar = ({ data }) => {
     )
 }
 
-export default Searchbar
+export default SearchBar
