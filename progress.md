@@ -7,3 +7,7 @@ This repository is used to track my day-to-day learning progress, coding activit
 |Date|Description |Git commit |
 |-------|--------------|-------------|
 |21-03-2026| Call to Action |8272db1bf5bc5df2f1bb2297b8fdf50cb8573496|
+
+
+3:20:00 to 4:37:30 -->COurse Details
+4:37:31 to 4:45:25 --> Course Details (Preview Section)
