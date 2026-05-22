@@ -11,3 +11,5 @@ This repository is used to track my day-to-day learning progress, coding activit
 
 3:20:00 to 4:37:30 -->COurse Details
 4:37:31 to 4:45:25 --> Course Details (Preview Section)
+4:45:26 to 4:48:02 --> Loading
+4:48:03 to 5:12:40 --> My Enrolments
