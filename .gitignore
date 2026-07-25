@@ -1,6 +1,7 @@
 # dependencies
 node_modules/
-
+venv
+mongotest.py
 # production build
 dist/
 
