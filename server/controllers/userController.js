@@ -13,6 +13,7 @@ export const getUserData = async (req, res) => {
         const userId = auth.userId;
         const user = await User.findById(userId)
 
+        console.log("user ::: ", user)
         if (!user) {
             return res.json({ success: false, message: 'User not found' })
         }
